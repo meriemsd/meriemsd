@@ -1,7 +1,7 @@
 ## Hi, I'm Meriem <33
 
 # 💫 About Me:
-<br>.👩‍💻Full Stack Web Developer<br>.🔬Pre-Engineering student<br>.💖web3, renewable energy enthusiast<br>
+<br>.👩‍💻Full Stack Web Developer<br>.🔬Electrical Engineering Student<br>.💖web3, renewable energy enthusiast<br>
 
 
 # 💻 Tech Stack:
