@@ -1,5 +1,5 @@
-# Hello! I'm Meriem 
-<br>
+# Hello! I'm Meriem 🧌
+<br><br>
 ## 🪼 About Me:
 {<br>  "what_i_do": [<br>    "Electrical Engineering Student",<br>    "Full-Stack Developer",<br>    "Founder @ The Game Box ENSIT",<br>    "Game Development Instructor"<br>  ]<br>}
 
